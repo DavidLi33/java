@@ -1,2 +1,2 @@
 # java
-USACO Silver Practice
+USACO Gold Preparation Practice
